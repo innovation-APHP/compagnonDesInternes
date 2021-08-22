@@ -1,0 +1,67 @@
+// Fonts import
+@font-face {
+    font-family: $font-family;
+    src: url('/fonts/GorditaMedium.eot');
+    src: url('/fonts/GorditaMedium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/GorditaMedium.woff2') format('woff2'),
+        url('/fonts/GorditaMedium.woff') format('woff'),
+        url('/fonts/GorditaMedium.ttf') format('truetype');
+    font-weight: $medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: $font-family;
+    src: url('/fonts/GorditaBold-Italic.eot');
+    src: url('/fonts/GorditaBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/GorditaBold-Italic.woff2') format('woff2'),
+        url('/fonts/GorditaBold-Italic.woff') format('woff'),
+        url('/fonts/GorditaBold-Italic.ttf') format('truetype');
+    font-weight: $bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: $font-family;
+    src: url('/fonts/GorditaBold.eot');
+    src: url('/fonts/GorditaBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/GorditaBold.woff2') format('woff2'),
+        url('/fonts/GorditaBold.woff') format('woff'),
+        url('/fonts/GorditaBold.ttf') format('truetype');
+    font-weight: $bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: $font-family;
+    src: url('/fonts/GorditaMedium-Italic.eot');
+    src: url('/fonts/GorditaMedium-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/GorditaMedium-Italic.woff2') format('woff2'),
+        url('/fonts/GorditaMedium-Italic.woff') format('woff'),
+        url('/fonts/GorditaMedium-Italic.ttf') format('truetype');
+    font-weight: $medium;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: $font-family;
+    src: url('/fonts/GorditaRegular.eot');
+    src: url('/fonts/GorditaRegular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/GorditaRegular.woff2') format('woff2'),
+        url('/fonts/GorditaRegular.woff') format('woff'),
+        url('/fonts/GorditaRegular.ttf') format('truetype');
+    font-weight: $regular;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: $font-family;
+    src: url('/fonts/GorditaRegular-Italic.eot');
+    src: url('/fonts/GorditaRegular-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/GorditaRegular-Italic.woff2') format('woff2'),
+        url('/fonts/GorditaRegular-Italic.woff') format('woff'),
+        url('/fonts/GorditaRegular-Italic.ttf') format('truetype');
+    font-weight: $regular;
+    font-style: italic;
+}
+

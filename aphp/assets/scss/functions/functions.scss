@@ -1,0 +1,7 @@
+// ----------
+// Functions
+// ----------
+
+@function spacer($multiple) {
+  @return $root-spacing * $multiple;
+}
